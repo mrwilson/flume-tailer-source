@@ -35,5 +35,4 @@ public class FlumeTailerSourceListenerTest {
         listener.handle(new IOException("Some exception"));
     }
 
-
 }
